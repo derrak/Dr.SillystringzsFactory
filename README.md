@@ -26,7 +26,7 @@ Click *Start Import* to import the database.
 
 With the database in your system, run terminal command `dotnet run` from the `Factory` directory. Then open `localhost:5000` in your browser.
 
-## Specs
+## Specs=
 
 * **Spec:** Adding a new engineer will add that engineer to a list of all engineers
 * **Input:** Engineer with name Steve
